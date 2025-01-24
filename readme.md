@@ -33,10 +33,10 @@ To install the MultiPDF Chat App, please follow these steps:
    ```
 
 3. Obtain an API key from OpenAI or an API Access Token from Hugging Face and add it to the `.env` file in the project directory.
-```commandline
-OPENAI_API_KEY=your_secrit_api_key
-HUGGINGFACE_API_TOKEN=your_secret_api_token
-```
+   ```commandline
+   OPENAI_API_KEY=your_secrit_api_key
+   HUGGINGFACE_API_TOKEN=your_secret_api_token
+   ```
 
 ## Usage
 -----
